@@ -10,5 +10,5 @@ variable "yandex_folder_id" {
 
 # ID образа созданого Packer
 variable "centos-7-base" {
-  default = "fd8hu92egb4b7or9b4gh"
+  default = "fd89pl03em0vcids7rdl"
 }
